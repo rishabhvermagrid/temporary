@@ -10,8 +10,5 @@ void main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         IO.println("i = " + i);
         System.out.println("changes on commit b");
-        System.out.println("changes on commit c");
-        System.out.println("changes on commit d");
-        System.out.println("changes on commit e");
     }
 }
