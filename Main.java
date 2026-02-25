@@ -12,5 +12,6 @@ void main() {
         System.out.println("changes on commit b");
         System.out.println("changes on commit c");
         System.out.println("changes on commit d");
+        System.out.println("changes on commit e");
     }
 }
